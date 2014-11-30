@@ -1,5 +1,7 @@
 Simple Sprint Memcached Learning test project
 
+Test memcached server : `localhost:11211`
+
 ## Reproduce @ReadThroughMultiCache bug [#42](https://github.com/ragnor/simple-spring-memcached/issues/42)
 
 ```
