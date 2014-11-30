@@ -8,6 +8,8 @@ Test memcached server : `localhost:11211`
 ./gradlew runMain
 ```
 
+SSM configuration is in `SsmTestApplicationContext` class.
+
 SSM 3.5.0 `@ReadThroughMultiCache` with `cacheConfiguration.setUseNameAsKeyPrefix(true);` does not work properly.
 
 with `cacheConfiguration.setUseNameAsKeyPrefix(true);` CacheService.getStringsFromCache() method will throw IllegalStateException,
