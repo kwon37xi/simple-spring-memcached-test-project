@@ -1,6 +1,6 @@
 Simple Sprint Memcached Learning test project
 
-## Reproduce @ReadThroughMultiCache bug
+## Reproduce @ReadThroughMultiCache bug [#42](https://github.com/ragnor/simple-spring-memcached/issues/42)
 
 ```
 ./gradlew runMain
