@@ -3,6 +3,7 @@ Simple Sprint Memcached Learning test project
 Test memcached server : `localhost:11211`
 
 ## Reproduce @ReadThroughMultiCache bug [#42](https://github.com/ragnor/simple-spring-memcached/issues/42)
+This bug has been fixed in Simple spring memcached 3.6.0.
 
 ```
 ./gradlew runMain
